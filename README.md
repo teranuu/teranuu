@@ -1,5 +1,13 @@
 <br clear="both">
 
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm13YXM3N3dweGtkZXRldDd6OHN0ZG1pbnJkM25mM2JoY3Z3aWZmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7CPPm2qysqX7O/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
 <h1 align="center">Aspiring Full-Stack Developer</h1>
 
 ###
@@ -7,12 +15,8 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=true&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&desc=README.md&descSize=60&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&desc=README.md&descSize=60&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
-
-###
-
-<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm13YXM3N3dweGtkZXRldDd6OHN0ZG1pbnJkM25mM2JoY3Z3aWZmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7CPPm2qysqX7O/giphy.gif"  />
 
 ###
 
@@ -20,7 +24,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -46,7 +50,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/denn-anton-marc-cayacap-5b257b382" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -69,7 +73,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
 
 ###
