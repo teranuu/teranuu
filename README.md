@@ -1,6 +1,10 @@
+<br clear="both">
+
 <h1 align="center">Denn Cayacap, Aspiring Full-Stack Developer</h1>
 
 ###
+
+<br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&desc=README.md&descSize=40&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
@@ -60,6 +64,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teranuu/teranuu/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teranuu/teranuu/output/pacman-contribution-graph.svg">
@@ -67,6 +73,8 @@
 </picture>
 
 ###
+
+<br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&desc=End%20of%20Content,%20Ciao!&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
