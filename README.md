@@ -8,11 +8,11 @@
 
 ###
 
-<img align="right" height="377" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBmNjBtcnYxcnUzMnhra2o4ZmRhNHc1N293bWliMHY1dHpycm1yYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHZMFYibQnjvTq0/giphy.gif"  />
+<img align="right" height="370" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBmNjBtcnYxcnUzMnhra2o4ZmRhNHc1N293bWliMHY1dHpycm1yYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHZMFYibQnjvTq0/giphy.gif"  />
 
 ###
 
-<p align="center">Hi! I’m an aspiring Full-Stack Developer working on real-world, industry-style projects. I enjoy building end-to-end applications, learning modern development practices, and improving code quality with each project.</p>
+<p align="left">Hi! I’m an aspiring Full-Stack Developer working on real-world, industry-style projects. I enjoy building end-to-end applications, learning modern development practices, and improving code quality with each project.</p>
 
 ###
 
@@ -55,6 +55,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teranuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
