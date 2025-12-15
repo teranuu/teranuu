@@ -1,5 +1,13 @@
 <br clear="both">
 
+<div align="center">
+  <img height="500" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NW43dDR1Z2o1aWp6bDg1em55M2ZhNTJmZGMxNWdhdmpmN2cxM2dxNSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ys25zLolNge9G/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
 <h1 align="center">Aspiring Full-Stack Developer</h1>
 
 ###
@@ -9,10 +17,6 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&desc=README.md&descSize=40&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
-
-###
-
-<img align="left" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBmNjBtcnYxcnUzMnhra2o4ZmRhNHc1N293bWliMHY1dHpycm1yYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHZMFYibQnjvTq0/giphy.gif"  />
 
 ###
 
