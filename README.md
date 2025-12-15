@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Denn Cayacap, Aspiring Full-Stack Developer</h1>
+<h1 align="center">Aspiring Full-Stack Developer</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBmNjBtcnYxcnUzMnhra2o4ZmRhNHc1N293bWliMHY1dHpycm1yYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHZMFYibQnjvTq0/giphy.gif"  />
+<img align="left" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBmNjBtcnYxcnUzMnhra2o4ZmRhNHc1N293bWliMHY1dHpycm1yYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHZMFYibQnjvTq0/giphy.gif"  />
 
 ###
 
